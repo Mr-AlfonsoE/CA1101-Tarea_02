@@ -30,7 +30,7 @@ Ejemplo de la salida de `numeros_pares`:
 Si estuvieras parado en la luna ahora mismo, tu peso sería 16.5% de lo que pesas en la Tierra. Puedes calcularlo multiplicando tu peso en la Tierra por 0,165.
 
 Si tu profesor pesa 75 kg y aumentara un kilo de peso cada año durante los próximos 15 años, ¿cuál sería su peso si él visitara la luna cada año durante los próximos 15 años? 
-Escriba un programa usando un bucle `while` que imprima el peso lunar del profesor para cada año.
+Escriba un programa usando un bucle `while` que imprima el peso lunar del profesor para cada año. Utilice el archivo `peso_lunar.py`.
 
 Ejemplo de la salida de `peso_lunar`:
 
